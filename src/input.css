@@ -23,3 +23,9 @@
 .callingBtn_bottom_md {
   @apply md:w-[277px]  md:h-[143px] md:p-10 md:bottom-40 md:right-32 md:text-left;
 }
+footer h1 {
+  @apply font-bold pb-6;
+}
+footer p {
+  @apply text-sm ;
+}
